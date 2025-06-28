@@ -1,6 +1,11 @@
 [
   "obsidian-style-settings",
-  "obsidian-kanban",
   "obsidian-git",
-  "obsidian-icon-folder"
+  "better-word-count",
+  "omnisearch",
+  "obsidian-latex-suite",
+  "obsidian-linter",
+  "slash-commander",
+  "obsidian-list-callouts",
+  "callout-manager"
 ]

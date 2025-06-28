@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3360b2cde4faf9bf",
+            "id": "a56a22d014355c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/This is a test.md",
+                "file": "6 - Main Notes/Electric Charges and Forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is a test"
+              "title": "Electric Charges and Forces"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "5 - Templates/Full Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Full Note"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,18 +176,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "3360b2cde4faf9bf",
+  "active": "635b477df7851fca",
   "lastOpenFiles": [
-    "Vault.md",
+    "Pasted image 20250627212737.png",
+    "6 - Main Notes/physics 2.md",
+    "6 - Main Notes/Electric Charges and Forces.md",
+    "3 - Tags/force.md",
+    "3 - Tags/electric fields.md",
+    "3 - Tags/electrons.md",
+    "Pasted image 20250627203314.png",
+    "Pasted image 20250627203303.png",
+    "Pasted image 20250627201850.png",
+    "6 - Main Notes/inverse-square law.md",
+    "Pasted image 20250627201310.png",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/test note.md",
     "6 - Main Notes/This is a test.md",
+    "Untitled",
+    "Vault.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Tags/3 - Tags.md",
     "3 - Tags",
-    "Untitled",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
