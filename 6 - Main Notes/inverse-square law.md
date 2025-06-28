@@ -2,7 +2,7 @@
 
 Status: #in-progress 
 
-Tags:
+Tags: [[physics 2]] 
 
 # inverse-square law
 
