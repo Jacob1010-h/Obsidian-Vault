@@ -1,5 +1,5 @@
 
-Tags:
+Tags: [[simulation]]
 
 # Car Simulation
 

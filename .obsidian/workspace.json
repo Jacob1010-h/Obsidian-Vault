@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cef1f19bdab78854",
+        "id": "4b771f8e2e37832b",
         "type": "tabs",
         "children": [
           {
-            "id": "4571ca61b31f3a48",
+            "id": "9eab6421d6b5febd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Tags/Homepages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepages"
-            }
-          },
-          {
-            "id": "b2fb3b51a1ab293d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "6 - Main Notes/Electric Charges and Forces.md",
-                "bFile": "6 - Main Notes/Electric Charges and Forces.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Electric Charges and Forces"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +61,7 @@
             }
           },
           {
-            "id": "07014e88628b8f89",
+            "id": "18b8d6eb61313a81",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.0078125
+    "width": 240.0078125
   },
   "right": {
     "id": "6f7bb73a4e801846",
@@ -196,50 +177,53 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4fc2d862d1617e8f",
+  "active": "9eab6421d6b5febd",
   "lastOpenFiles": [
-    "6 - Main Notes/Electric Charges and Forces.md",
+    "1 - Rough Notes/test note 1.md",
+    "4 - Indexes/test notes.md",
+    "1 - Rough Notes/Test Note.md",
+    "6 - Main Notes/The Electric Potential.md",
+    "6 - Main Notes/Electric Fields and Charges.md",
+    "6 - Main Notes/Potential and Field.md",
+    "6 - Main Notes/source charges.md",
+    "4 - Indexes/physics 2.md",
+    "6 - Main Notes/Inverse-square law.md",
+    "6 - Main Notes/Forces.md",
+    "6 - Main Notes/General -- Electrons and Forces.md",
+    "3 - Tags/electric fields.md",
+    "6 - Main Notes/Electromagnetic Induction.md",
+    "Attachments/Pasted image 20250708113647.png",
+    "Attachments/Pasted image 20250708113249.png",
+    "Attachments/Pasted image 20250708111753.png",
+    "Attachments/Pasted image 20250708111726.png",
+    "Attachments/Pasted image 20250708105655.png",
+    "6 - Main Notes/Car Simulation.md",
+    "3 - Tags/simulation.md",
+    "Attachments/Pasted image 20250627203303.png",
+    "5 - Templates/Full Note.md",
+    "3 - Tags/Homepages.md",
     "Test.canvas",
     "1 - Rough Notes/housing thinngy.md",
     "6 - Main Notes/MyMines Homepage.md",
     "Saved Passwords (DON'T SAVE).md",
-    "3 - Tags/Homepages.md",
-    "3 - Tags/test notes.md",
     "1 - Rough Notes/hello, this is a test.md",
     "3 - Tags/force.md",
-    "3 - Tags/electric fields.md",
-    "4 - Indexes/physics 2.md",
-    "1 - Rough Notes/Car Simulation.md",
     "Attachments/Pasted image 20250628111750.png",
     "Attachments/Pasted image 20250628102850.png",
     "6 - Main Notes/Red Rocks Community College Homepage.md",
     "Attachments/Pasted image 20250628093821.png",
     "Attachments/Pasted image 20250628093855.png",
-    "Attachments/Pasted image 20250628094023.png",
-    "Attachments/Pasted image 20250627201850.png",
-    "Attachments/Pasted image 20250627201310.png",
-    "5 - Templates/Full Note.md",
     "Untitled 1.canvas",
     "6 - Main Notes/basic note.md",
-    "6 - Main Notes/inverse-square law.md",
     "6 - Main Notes/basic bote.md",
     "Attachments",
-    "Attachments/Pasted image 20250627212737.png",
     "3 - Tags/electrons.md",
-    "Attachments/Pasted image 20250627203314.png",
-    "Attachments/Pasted image 20250627203303.png",
-    "6 - Main Notes/test note.md",
-    "6 - Main Notes/This is a test.md",
-    "Vault.md",
-    "1 - Rough Notes/1 - Rough Notes.md",
-    "3 - Tags/3 - Tags.md",
     "3 - Tags",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
     "2 - Source Material",
-    "1 - Rough Notes",
-    "Welcome.md"
+    "1 - Rough Notes"
   ]
 }
